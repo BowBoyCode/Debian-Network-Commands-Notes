@@ -1,19 +1,16 @@
-Here are some essential networking commands:
-
-1. `ip addr` – Show IP addresses and network interfaces
-2. `ip link` – Display or configure network interfaces
-3. `ip route` – Show or manipulate the routing table
-4. `ping <host>` – Test connectivity to a host
-5. `traceroute <host>` – Trace the route packets take to a host
-6. `nslookup <domain>` / `dig <domain>` – Query DNS records for a domain
-7. `netstat` / `ss` – Display network connections, routing tables, and interface statistics
-8. `ifconfig` – Display or configure network interfaces (older tool, often replaced by `ip`)
-9. `iwconfig` – Configure wireless interfaces
-10. `hostname` – Show or set the system's hostname
-11. `nmap <host>` – Network exploration and security auditing
-12. `curl <URL>` – Transfer data to/from a server
-13. `wget <URL>` – Download files from the web
-14. `tcpdump` – Capture network packets
-15. `nmcli` – NetworkManager command-line tool for managing network connections
-
-These commands cover a broad range of networking tasks like checking IP addresses, managing connections, testing reachability, and troubleshooting.
+### Networking Commands:
+- `ip addr` – Show IP addresses and network interfaces
+- `ip link` – Display or configure network interfaces
+- `ip route` – Show or manipulate the routing table
+- `ping <host>` – Test connectivity to a host
+- `traceroute <host>` – Trace the route packets take to a host
+- `nslookup <domain>` / `dig <domain>` – Query DNS records for a domain
+- `netstat` / `ss` – Display network connections, routing tables, and interface statistics
+- `ifconfig` – Display or configure network interfaces (older tool, often replaced by `ip`)
+- `iwconfig` – Configure wireless interfaces
+- `hostname` – Show or set the system's hostname
+- `nmap <host>` – Network exploration and security auditing
+- `curl <URL>` – Transfer data to/from a server
+- `wget <URL>` – Download files from the web
+- `tcpdump` – Capture network packets
+- `nmcli` – NetworkManager command-line tool for managing network connections
