@@ -18,9 +18,9 @@
 
 General Administration Commands (Useful for Network/Firewall Admins):
 
-### Check Network Interfaces
 
-ip a
+
+- 'ip a' - Check Network Interfaces
 
 Display Routing Table:
 
