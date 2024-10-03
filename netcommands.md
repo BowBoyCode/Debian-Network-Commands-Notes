@@ -46,4 +46,3 @@ Here is the rewritten list formatted in **Markdown** for your GitHub:
 - `curl -I http://example.com` – Make HTTP Requests
 ```
 
-This Markdown format will work well on GitHub or any other markdown-supported platform, providing clear sections and command details.
