@@ -18,9 +18,7 @@
 
 General Administration Commands (Useful for Network/Firewall Admins):
 
-    Check Network Interfaces:
-
-    bash
+### Check Network Interfaces
 
 ip a
 
